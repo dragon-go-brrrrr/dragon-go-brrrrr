@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dragon-go-brrrrr
-- 👀 I’m interested in web development, embedded software development, machine learning.
+- 👀 I’m interested in software development, embedded software development, machine learning.
 - 🌱 I’m currently learning STM32 Embedded C programming.
 - 📫 How to reach me insta-rushiptl_, email-rushilinkedin@gmail.com.
 
